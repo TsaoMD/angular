@@ -16,5 +16,6 @@ ng_module(
         "//packages/common/http",
         "//packages/core",
         "@npm//rxjs",
+        "@npm//@types/jasmine",
     ],
 )
